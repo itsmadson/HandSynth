@@ -11,7 +11,7 @@ Download the latest release for your operating system from our [Releases page](h
 ### MIDI Controller Setup
 1. Install [**loopMIDI**](https://www.tobias-erichsen.de/software/loopmidi.html) and create a virtual MIDI port.
 2. In the MadHand application, select the created virtual MIDI port.
-3. Use a synthesizer like **Vital** to generate sounds based on the MIDI signals from MadHand.
+3. Use a synthesizer like [**Vital**](https://account.vital.audio/VitalInstaller.exe?idToken=eyJhbGciOiJSUzI1NiIsImtpZCI6ImMxNTQwYWM3MWJiOTJhYTA2OTNjODI3MTkwYWNhYmU1YjA1NWNiZWMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdml0YWwtYXV0aGVudGljYXRpb24iLCJhdWQiOiJ2aXRhbC1hdXRoZW50aWNhdGlvbiIsImF1dGhfdGltZSI6MTcyMDE5NTE0NywidXNlcl9pZCI6ImtrZTVmakZSRnNiWEowVHdoOEJGQklIaGZqNzMiLCJzdWIiOiJra2U1ZmpGUkZzYlhKMFR3aDhCRkJJSGhmajczIiwiaWF0IjoxNzIxMjM0NDU2LCJleHAiOjE3MjEyMzgwNTYsImVtYWlsIjoibXNlbXNlbXNlNDU0NXNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbIm1zZW1zZW1zZTQ1NDVzQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.pyvmMwgbHIVrlHQZZgsGI0N-dWFcVED1oSORlQmkQtgYVfa4RkjLeLOx8InEwDdG2uxyMf9nWiR7TovknNA0sngqkGqq_q7CU1C-uTJpHzZ6Q40_ar1FgtytxKn56S4LqRwfNDquNW0v9XvJIInzkPzBbc8Xssf-eUSZmm5JW1kg1cVZTNY6D9v5x3-9JPEL4dR17vJ25Ki-Jm6nB6vK7n_jaK3Os5pcupo-qMO3oJyljO8QiLJUYs5KLaMo_rzsQbMu10GiFRmlgmTV_Gdad-lXq0tFapuMXy5E5BmKil0Hli_lse_aM9Hc5NzOVHlI2hDW8GwrZKSYzF7zq9UKiQ&version=1_5_5) to generate sounds based on the MIDI signals from MadHand.
 4. Launch the application
 2. Select your MIDI output (virtual MIDI port) device and webcam
 3. Adjust settings as desired
