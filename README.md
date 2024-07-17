@@ -18,6 +18,7 @@ Download the latest release for your operating system from our [Releases page](h
 4. Click "RUN" to start
 5. Use your hand to control MIDI output
 6. Click "STOP" when finished
+   
 ![image](https://github.com/user-attachments/assets/de9b9717-0c53-4424-b1b1-bc4a8ce3098e)
 
 ## Features
