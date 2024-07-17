@@ -6,7 +6,7 @@ MadHand uses MediaPipe for hand tracking and converts the position of your hand 
 ## Installation
 
 ### Download
-Download the latest release for your operating system from our [Releases page](https://github.com/yourusername/madhand/releases).
+Download the latest release for your operating system from our [Releases page](https://github.com/itsmadson/madhand/releases).
 
 ### MIDI Controller Setup
 1. Install [**loopMIDI**](https://www.tobias-erichsen.de/software/loopmidi.html) and create a virtual MIDI port.
